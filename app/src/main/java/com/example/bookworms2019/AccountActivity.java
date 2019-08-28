@@ -16,6 +16,8 @@ import com.google.firebase.auth.FirebaseUser;
 
 public class AccountActivity extends AppCompatActivity {
 
+    private static String str = "elizardbirdshit";
+
     private static final String TAG = "AccountActivity";
 
     private FirebaseAuth.AuthStateListener mAuthStateListener;
