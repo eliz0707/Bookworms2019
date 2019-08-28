@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "154685308195",
+    "firebase_url": "https://bookworms2019-ea561.firebaseio.com",
+    "project_id": "bookworms2019-ea561",
+    "storage_bucket": "bookworms2019-ea561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154685308195:android:28385ebf50338492",
+        "android_client_info": {
+          "package_name": "com.example.bookworms2019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154685308195-g1l21japmu91j6phvbdqjsk309k6pmqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookworms2019",
+            "certificate_hash": "1bc77cb52e0343f9e424fa981c945f71d0b0ee5a"
+          }
+        },
+        {
+          "client_id": "154685308195-gaqr8dek2d6vaqah6jn5s4i7j6impkvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPSRLLVq1xn4_JGgoW1f6soEDkvDbYQFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154685308195-gaqr8dek2d6vaqah6jn5s4i7j6impkvb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154685308195-7t369141der7fte1j6j2adddvd4kcp2b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bookworms2019"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
